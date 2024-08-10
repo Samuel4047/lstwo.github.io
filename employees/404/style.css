@@ -41,11 +41,11 @@
 h1	{
     color: rgb(149, 1, 207);
     font-style: arial;
-    font-size: "36pt";
+    font-size: "80%";
     }
 li {
         font-Family: "Comic Sans MS";
-        font-size: 20px;
+        font-size: 90%;
         color:Midnightblue;
     }
 td {
@@ -100,7 +100,7 @@ li.box
     
 }
 .p{
-font-size: 30px;
+font-size: 80%;
 color:aliceblue;
 padding-left: 20pt;
 }
@@ -123,3 +123,7 @@ background-color: #5fcde4;
     float: left;
     padding-left: 30pt;
   }
+.headline
+{
+    font-size: 160%;
+}
